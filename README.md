@@ -1,4 +1,16 @@
 This project analyses the four generations of Insurance Companies under different categories. It aims to uncover industry trends of insurance companies over the past 5 years.
+# Project Images
+
+<p float="left">
+  <img src="images/aa.png" alt="aa" width="200"/>
+  <img src="images/bb.png" alt="bb" width="200"/>
+  <img src="images/cc.png" alt="cc" width="200"/>
+</p>
+
+<p float="left">
+  <img src="images/dd.png" alt="dd" width="200"/>
+  <img src="images/ee.png" alt="ee" width="200"/>
+</p>
 
 Objectives
 
