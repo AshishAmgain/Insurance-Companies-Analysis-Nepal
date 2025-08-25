@@ -15,15 +15,14 @@ This project analyses the four generations of Insurance Companies under differen
 <p float="left">
   <img src="images/bonusratesvis2.png" alt="dd" width="200"/>
   <img src="images/bonusratevisualization.png" alt="ee" width="200"/>
-  <img src="images/finindicatos matrix.png" alt="ee" width="200"/>
+  <img src="images/grossearnedpremium.png" alt="ee" width="200"/>
 </p>
 <p float="left">
-  <img src="images/grossearnedpremium.png" alt="dd" width="200"/>
   <img src="images/grossearnedpremium2.png" alt="ee" width="200"/>
   <img src="images/policiesmatrix.png" alt="ee" width="200"/>
 </p>
 
-Objectives
+**Objectives**
 
 Analyse the major financial indicators under 57 different categories and the performance of insurance companies. (Past 5 years Data)
 Analyse the Claim Under Different Categories (Past 5 years Data)
