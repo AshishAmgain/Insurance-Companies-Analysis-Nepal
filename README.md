@@ -10,6 +10,17 @@ This project analyses the four generations of Insurance Companies under differen
 <p float="left">
   <img src="images/dd.png" alt="dd" width="200"/>
   <img src="images/ee.png" alt="ee" width="200"/>
+  <img src="images/bonusrates.png" alt="ee" width="200"/>
+</p>
+<p float="left">
+  <img src="images/bonusratesvis2.png" alt="dd" width="200"/>
+  <img src="images/bonusratevisualization.png" alt="ee" width="200"/>
+  <img src="images/finindicatos matrix.png" alt="ee" width="200"/>
+</p>
+<p float="left">
+  <img src="images/grossearnedpremium.png" alt="dd" width="200"/>
+  <img src="images/grossearnedpremium2.png" alt="ee" width="200"/>
+  <img src="images/policiesmatrix.png" alt="ee" width="200"/>
 </p>
 
 Objectives
