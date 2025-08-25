@@ -10,16 +10,29 @@ This project analyses the four generations of Insurance Companies under differen
 <p float="left">
   <img src="images/dd.png" alt="dd" width="200"/>
   <img src="images/ee.png" alt="ee" width="200"/>
-  <img src="images/bonusrates.png" alt="ee" width="200"/>
+  <img src="images/bonusrates.png" alt="bonusrates" width="200"/>
 </p>
+
 <p float="left">
-  <img src="images/bonusratesvis2.png" alt="dd" width="200"/>
-  <img src="images/bonusratevisualization.png" alt="ee" width="200"/>
-  <img src="images/grossearnedpremium.png" alt="ee" width="200"/>
+  <img src="images/bonusratesvis2.png" alt="bonusratesvis2" width="200"/>
+  <img src="images/bonusratevisualization.png" alt="bonusratevisualization" width="200"/>
+  <img src="images/finindicatorsvis1.png" alt="finindicatorsvis1" width="200"/>
 </p>
+
 <p float="left">
-  <img src="images/grossearnedpremium2.png" alt="ee" width="200"/>
-  <img src="images/policiesmatrix.png" alt="ee" width="200"/>
+  <img src="images/finindicatorsvis2.png" alt="finindicatorsvis2" width="200"/>
+  <img src="images/finindicatorsvis3.png" alt="finindicatorsvis3" width="200"/>
+  <img src="images/finindicatorsvis4.png" alt="finindicatorsvis4" width="200"/>
+</p>
+
+<p float="left">
+  <img src="images/finindicatos matrix.png" alt="finindicatos matrix" width="200"/>
+  <img src="images/gorssearnedpremium.png" alt="gorssearnedpremium" width="200"/>
+  <img src="images/grossearnedpremium2.png" alt="grossearnedpremium2" width="200"/>
+</p>
+
+<p float="left">
+  <img src="images/policiesmatrix.png" alt="policiesmatrix" width="200"/>
 </p>
 
 **Objectives**
